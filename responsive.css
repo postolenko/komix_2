@@ -1,3 +1,13 @@
+@media only screen and (max-width: 1800px) {
+	.comix_left {
+		right: 100%;
+	}
+
+	.comix_right {
+		left: 78%;
+	}
+}
+
 @media only screen and (max-width: 1600px) {
 
 	.header_site_row > .right {

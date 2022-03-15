@@ -1561,7 +1561,144 @@ textarea:focus {
 
 /*-- /Section 1 - Page 5 --*/
 
+/*-- Section 1 - Page 6 --*/
 
+.reg_succes_wrapp {
+    padding: 28px 0 0 40px;
+}
+
+.blue_box_7 {
+    display: inline-flex;
+    display: -webkit-inline-flex;
+    align-items: center;
+    -webkit-align-items: center;
+    min-width: 140px;
+    min-height: 100px;
+    background-color: #2A1E54;
+    position: relative;
+    padding: 1px 50px 6px 50px;
+}
+
+.blue_box_7 p {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    text-decoration-line: underline;
+    color: #FFF;
+}
+
+.reg_succes_wrapp .orange {
+    padding-top: 4px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    color: #EF7D00;
+}
+
+.page_6_templ {
+    max-width: 1005px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.tree_blue_box {
+    display: flex;
+    display: -webkit-flex;
+    margin: 0 -6px 11px -6px;
+}
+
+.tree_blue_box > div {
+    padding: 6px 12px;
+}
+
+.blue_figure_2 p {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.blue_figure_2 p.white {
+    color: #FFF;
+}
+
+.shape_2 .right_shape {
+    border-width: 15px 6px 0 0;
+    right: -6px;
+}
+
+.shape_3 .left_shape {
+    border-width: 0 0 15px 6px;
+    left: -6px;
+}
+
+.shape_3 .right_shape {
+    border-width: 15px 3px 0 0;
+    right: -3px;
+}
+
+.tree_blue_box .shape_3 {
+    margin-left: -8px;
+}
+
+.thumbnails_2_wrapp {
+    display: flex;
+    display: -webkit-flex;
+    margin: 10px 0;
+    position: relative;
+    left: -31px;
+}
+
+.thumb_2 {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    -webkit-align-items: center;
+    justify-content: center;
+    -webkit-justify-content: center;
+    width: 312px;
+    height: 117px;
+    margin: 10px -10px;
+    padding: 10px 42px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(img/thumb_2_bg.svg);
+    background-size: contain;
+    background-position: center;
+}
+
+.thumb_2 p {
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 30px;
+    background: linear-gradient(0deg, #0448A8 0%, #2A1E54 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.logos_thumbs_2 {
+    margin: 18px 0 18px -43px;
+}
+
+.minus_top.minus_top_2 {
+    top: -75px;
+}
+
+.comix_left {
+    position: absolute;
+    bottom: 59px;
+    right: calc(100% + 91px);
+}
+
+.comix_right {
+    position: absolute;
+    bottom: 47px;
+    left: 100%;
+}
+
+
+/*-- /Section 1 - Page 6 --*/
 
 /*-------------------------------------------*/
 /* ----- FOOTER ------ */
